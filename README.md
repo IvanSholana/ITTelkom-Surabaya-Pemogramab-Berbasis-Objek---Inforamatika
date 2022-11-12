@@ -4,6 +4,7 @@ Hello Selamat datang di Modul Pemograman Berbasis Objek menggunakan Bahasa Pemog
 
 [https://github.com/IvanSholana/ITTelkomSurabaya_PemogramanBerbasisObjek_Informatika/wiki](https://github.com/IvanSholana/PemogramanBerbasisObjek/wiki)
 
-Jika ada pertanyaan atau penjelasannya yang kurang, dapat ditanyakan langsung ke saya 🙆‍♂️🙆‍🙆‍♂️
+Jika ada pertanyaan atau penjelasannya yang kurang tepay, dapat ditanyakan langsung ke s
+penulis🙆‍♂️🙆‍🙆‍♂️
 
 Semoga membantu!!!
